@@ -147,5 +147,16 @@ this result is not correct because of logical error in format specifier or formu
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
 
+There was error in format specifier and formula of area. I modify the area.c file and commit it on github you can check there.
+
+THE OUTPUTS AFTER MODIFYING area.c are :
+
+Please enter the base of a triangle: 3
+Please enter the height of a triangle: 4
+The area is 6.000000 square units.
+
+Please enter the base of a triangle: 20
+Please enter the height of a triangle: 30
+The area is 300.000000 square units.
 
 
