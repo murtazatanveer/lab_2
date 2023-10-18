@@ -6,6 +6,7 @@ printf("\nMade by : MURTAZA TANVEER\nReg no : SP23-BSE0-96");
 printf("\n\n___________________WELCOME TO CURRENCY CONVERSION PLATFOAM___________________\n\n\n");
 
 float dollar;
+
 printf("\nEnter Amount In USD : ");
 scanf("%f",&dollar);
 
@@ -22,7 +23,11 @@ float yen = (y*127.65);
 
 printf("\n\nFee Detucted is : %.3f $\n\n",fee);
 
+printf("You get\n\n");
 
+printf(" %.3f GPB\n",pound);
+
+printf(" %.3f JPY\n",yen);
 
 
 
