@@ -67,9 +67,46 @@ the exchange amounts for the following inputs:
 
   a) $250.25
 
+Enter Amount In USD : 250.25
+
+
+Fee Detucted is : 25.025 $
+
+After Converting You get :
+
+88.964 GPB
+
+14374.986 JPY
+
+
   b) $1,000.52
 
+Enter Amount In USD : 1000.52
+
+
+Fee Detucted is : 100.052 $
+
+After Converting You get :
+
+355.685 GPB
+
+57472.371 JPY
+
+
   c) $968,410.12
+
+
+Enter Amount In USD : 968410.12
+
+
+Fee Detucted is : 96841.016 $
+
+After Converting You get :
+
+344269.813 GPB
+
+55627900.000 JPY
+
 
 
 
