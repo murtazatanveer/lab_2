@@ -52,8 +52,8 @@ Hello, abc.  You are 0 years, 0 weeks, and 0 days old today
   size: 4 bytes
   range:  -2147483648 to 2147483647
 * `long int`
-  size: 
-  range:
+  size: 4 bytes
+  range: -2147483648 to 2147483647
 * `float`
   size:
   range: 7 digits of accuracy
