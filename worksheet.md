@@ -116,6 +116,10 @@ to use it to convert the US national debt
 (which as of 2020 was \$26,009,754,625,487)?
 Why or why not?
 
+In conversion program it is most suitable to use float or double instead of int datatype
+because dollars may be in decimal value (e.g $250.25 , $1000.52).
+For the value like ($26,009,754,625,487) we used int but long long int or unsigned long long int 
+to store large value (greator than 4 bytes).
 
 
 
