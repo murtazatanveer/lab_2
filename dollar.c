@@ -20,7 +20,7 @@ float pound = (y*0.79);
 
 float yen = (y*127.65);
 
-
+printf("\n\nFee Detucted is : %.3f $\n\n",fee);
 
 
 
