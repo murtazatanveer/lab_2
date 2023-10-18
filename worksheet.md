@@ -138,6 +138,11 @@ no, this result is not correct beacuse of logical error in datatypes or formula
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
 
+Please enter the base of a triangle: 3
+Please enter the height of a triangle: 5
+The area is 0.000000 square units.
+
+this result is not correct because of logical error in format specifier or formula of area.
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
