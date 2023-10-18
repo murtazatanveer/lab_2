@@ -146,3 +146,6 @@ this result is not correct because of logical error in format specifier or formu
 
 c) Fix the program by editing the `area.c` source
 code so that the program produces correct results.
+
+
+
