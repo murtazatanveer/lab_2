@@ -128,6 +128,12 @@ to store large value (greator than 4 bytes).
 a) Run the `area` program with 3 and 4 as inputs.  
 What value do you get?  Is this result correct?
 
+Please enter the base of a triangle: 3
+Please enter the height of a triangle: 4
+The area is 0.000000 square units.
+
+no, this result is not correct beacuse of logical error in datatypes or formula
+
 
 b) Execute the program again with inputs 3 and 5.
 Does the program give correct results?  Why not?
