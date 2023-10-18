@@ -12,6 +12,11 @@ scanf("%f",&dollar);
 float fee;
 fee =  ( ( 10*d ) / ( 100 ) );
 
+float x = dollar-fee;
+
+float y = x/2;
+
+
 
 
 
